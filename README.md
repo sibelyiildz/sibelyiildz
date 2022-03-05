@@ -14,7 +14,7 @@
 
 -->
 
-<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" with="360" height="225">
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" with="320" height="200">
 
 ### I'm Android Developer
 
