@@ -52,7 +52,6 @@
 - [Git Nedir? Temel Git Komutları Nelerdir?](https://medium.com/@sibelyiildz/git-nedir-temel-git-komutlar%C4%B1-nelerdir-54ce40725385)
 <!-- BLOG-POST-LIST:END -->
 
-<hr>
 
 [linkedln]:https://www.linkedin.com/in/sibelyiildz/
 [medium]:https://medium.com/@sibelyiildz
