@@ -25,8 +25,8 @@
 ### Connect with me
 
 [<img height="24" width="24" align= "center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedln]
-[<img height="24" width="24" align= "center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"/>][medium]
-[<img height="24" width="24" align= "center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png"/>](mailto:sibelyldz2012@gmail.com)
+[<img height="24" width="24" align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/>][medium]
+[<img height="24" width="24" align= "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png"/>](mailto:sibelyldz2012@gmail.com)
 
 <hr>
 
